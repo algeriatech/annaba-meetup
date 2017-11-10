@@ -1,0 +1,23 @@
+title: Annaba Tech meetup
+description: Annaba Tech Meetup Website, an event-driven community about software, web and mobile technologies. Meetups are held every once in a while (to be specified) in Annaba around a given topic related to programming.
+keywords: Developer, meetup, event, technology, programming, JavaScript, software development, Tech, Annaba, Bone
+links:
+    twitter:
+        icon: twitter
+        url: https://twitter.com/algeria_tech
+    github:
+        icon: github
+        url: https://github.com/algeriatech
+    slack:
+        icon: slack
+        url: https://algeriatech.now.sh/
+talkProposalForm: https://docs.google.com/forms/d/e/1FAIpQLSd6RhP5vGTHYANR2qE8ro_lOzdwQC_XZwO0YCs-pYFeOpzShw/viewform
+twitter: algeria_tech
+images: [ ]
+meetups:
+    -
+        title: N/A
+        location: Dar El Insania, Cité du 8 Mars., Annaba
+        date: To be specified
+        current: true
+ 
